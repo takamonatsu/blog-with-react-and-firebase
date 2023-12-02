@@ -1,3 +1,8 @@
+#ブログアプリ
+* firebase
+** ログイン機能(Goorle)
+** 記事投稿・閲覧・削除
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
